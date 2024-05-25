@@ -1,4 +1,4 @@
-# Paper title
+# Efficient Active Learning using Recursive Estimation of Error Reduction
 
 This repository is the official implementation of [Efficient Active Learning using Recursive Estimation of Error Reduction].
 
