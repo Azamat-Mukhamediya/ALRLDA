@@ -35,7 +35,7 @@ We would like to acknowledge the following GitHub repositories for providing the
 
 ```
 
-@article{MUKHAMEDIYA2025,
+@article{MukhamediyaALRLDA,
 	author = {Azamat Mukhamediya and Reza Sameni and Amin Zollanvari},
 	doi = {https://doi.org/10.1016/j.neucom.2025.130131},
 	issn = {0925-2312},
